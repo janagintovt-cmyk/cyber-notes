@@ -1,10 +1,11 @@
 # 🧠 Cybersecurity Notes
 
 ## 💻 Terminal Basics
-cd folder_name   # move into folder  
-cd ..            # go back  
-ls               # list files (Linux)  
-dir              # list files (Windows)  
+```bash
+cd folder_name   # move into folder
+ls               # list files (Linux)
+dir              # list files (Windows)
+cd ..            # go back   
 
 ---
 
