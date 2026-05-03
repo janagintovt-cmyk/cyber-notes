@@ -14,8 +14,35 @@ I am currently learning cybersecurity and IT support fundamentals using TryHackM
 - Web Security (OWASP basics)
 
 --- 🧠 Cybersecurity Notes
+## 🔐 Encryption Notes
 
-## 💻 Terminal Basics
+- Symmetric encryption uses one shared key
+- Asymmetric encryption uses a public and private key pair
+
+- HTTPS:
+  - HTTPS uses asymmetric encryption to securely exchange a key
+- Then uses symmetric encryption for fast data transfer
+
+---
+
+## 🧠 CIA Triad
+
+- Confidentiality → Prevent unauthorized access to sensitive data
+- Integrity → Ensure data is not altered without permission
+- Availability → Ensure systems and services remain accessible
+
+### 📌 Example
+
+- DDoS attack → affects **Availability**
+
+---
+
+## 🧩 Security Concepts
+
+- Vulnerability → weakness in system
+- Exploit → method to use vulnerability
+- Scope → what can be tested
+- Dictionary attack → password guessing using wordlist## 💻 Terminal Basics
 ```bash
 cd folder_name   # move into folder
 ls               # list files (Linux)
@@ -59,4 +86,16 @@ Base64: SGVsbG8= → Hello
 ## 🌍 Unicode
 U+30B7 = シ  
 UTF-16: 30B7  
-UTF-32: 0001F60C  
+UTF-32: 0001F60C
+
+---
+
+## 🧪 Practical Skills (TryHackMe)
+
+- Completed beginner rooms on:
+  - Encryption basics
+  - Web attacks (login brute force)
+  - Networking fundamentals
+- Used tools like:
+  - Hydra (password attacks)
+  - Linux terminal commands
