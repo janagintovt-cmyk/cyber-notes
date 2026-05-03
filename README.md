@@ -1,4 +1,19 @@
-# 🧠 Cybersecurity Notes
+# 🛡️ Cybersecurity Notes (TryHackMe Journey)
+
+## 📍 About Me
+I am currently learning cybersecurity and IT support fundamentals using TryHackMe and hands-on labs. This repository documents my progress, notes, and practical skills.
+
+---
+
+## 🧠 Topics Covered
+- Encryption (Symmetric vs Asymmetric)
+- CIA Triad (Confidentiality, Integrity, Availability)
+- Networking Basics
+- Linux Fundamentals
+- Security Concepts (Vulnerabilities, Exploits)
+- Web Security (OWASP basics)
+
+--- 🧠 Cybersecurity Notes
 
 ## 💻 Terminal Basics
 ```bash
